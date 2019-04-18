@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMapperError", "AutoMapperError\AutoMapperError.csproj", "{008AF666-AD56-4C28-98A4-37A9920A39BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperError.Framework", "AutoMapperError.Framework\AutoMapperError.Framework.csproj", "{1B112E50-D3D6-4801-B12A-23B96B206710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperError.Shared", "AutoMapperError.Shared\AutoMapperError.Shared.csproj", "{9782B946-9440-4AE6-8DA4-D354A15C236C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008AF666-AD56-4C28-98A4-37A9920A39BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008AF666-AD56-4C28-98A4-37A9920A39BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008AF666-AD56-4C28-98A4-37A9920A39BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008AF666-AD56-4C28-98A4-37A9920A39BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B112E50-D3D6-4801-B12A-23B96B206710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B112E50-D3D6-4801-B12A-23B96B206710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B112E50-D3D6-4801-B12A-23B96B206710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B112E50-D3D6-4801-B12A-23B96B206710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9782B946-9440-4AE6-8DA4-D354A15C236C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9782B946-9440-4AE6-8DA4-D354A15C236C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9782B946-9440-4AE6-8DA4-D354A15C236C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9782B946-9440-4AE6-8DA4-D354A15C236C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80400667-C8B4-4044-A5E0-52331B5B04CB}
+	EndGlobalSection
+EndGlobal
